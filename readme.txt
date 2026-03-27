@@ -1,1 +1,2 @@
 novy subor
+a poznamka
